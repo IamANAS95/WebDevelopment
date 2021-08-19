@@ -1,0 +1,29 @@
+h1 {
+    color:brown;
+    text-align: center;
+    background: antiquewhite;
+    text-align: center;
+    font-weight: normal;
+    font-size: 60px;
+    font-family: Helvetica;
+}
+h2 {
+    text-transform: uppercase;
+    letter-spacing: normal;
+}
+button {
+    color: #0000ff;
+    background-color: blueviolet;
+}
+
+p {
+    color:#0f5679;
+    text-align: justify;
+    font-weight:normal;
+    font-size: normal;
+    font-family: 'Gill Sans',sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}

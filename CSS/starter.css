@@ -1,0 +1,70 @@
+h2 {
+    color:#11324D;
+    text-transform: capitalize;
+}
+
+body {
+    background-color: #E7E0C9;
+}
+
+#singup {
+    background-color: #6B7AA1;
+    color: #C1CFC0;
+}
+
+#singup:hover {
+    background-color: #C1CFC0;
+    color:#6B7AA1;
+}
+
+.tag {
+    text-decoration: underline;
+    background-color:#F8F5F1;
+    font-size: 13px;
+    color: #6B7AA1;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+span {
+    color: #11324D;
+    font-size: 13px;
+}
+
+.post a {
+    color:#989ca0;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.nav-footer a {
+    color:#45526C;
+}
+
+.license {
+    color:#45526C;
+}
+
+input[type="email"], input[type="password"] {
+    color: red;
+}
+button {
+    background-color: #C1CFC0;
+    color: #11324D;
+}
+
+button:hover {
+    background-color: #11324D;
+    color:#C1CFC0
+}
+
+.post button:active {
+    background-color: darkred;
+}
+
